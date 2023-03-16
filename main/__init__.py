@@ -12,12 +12,12 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
                     level=logging.WARNING)
 
 # variables
-API_ID = "10802796"
-API_HASH = "191107910c6fbc576bff320d6f4e8d12"
-BOT_TOKEN = "5885677035:AAFFwI52ayU947kQvCmOBnvuj03AVOy208s"
-SESSION = "AQBgehDWR_RB269E8haXjj4ltNIGFS_2TJKOPErl3rmqhnnu0rf1-R7TcqLcFx4BPY6BT3FO5MhwK06Zgc54GxZb7jCWaW-gkvRRZiUoKINE3QygNxK3ZbYq7QWx4IJScvzFhgj4uYIg7uXMiqVA4vUSt0jV1zGIPNG0HHgUAAy9BXq4VBSq8i3dmsEqaeUnJbnSIatR0Zdm7i8kC7m2F0jabE51bc1paqiW2o_jDqeJqJB_71Jia2HIdC-q5ct5MC2LdSjUy9ibHYmJPlHt65KEWyaOoCe5A5exOmgnmUtVaojzlLx3XoPn2dzRhaiy35_Fl851nzUQ3WhJF-q5My92AAAAAUZCL70A"
-FORCESUB = "DuniaVirtualMenfess"
-AUTH = 5473710013
+API_ID = "9848283"
+API_HASH = "c4e36306a2c11dab87bcc8826cba7fc7"
+BOT_TOKEN = "5851916195:AAHqhPfhr_fEnsJ03Ch6-jZM6l8hsO8cJaY"
+SESSION = "BQDABItrPdqBx_csTY3gePWWR6PHUncNv2I1UzmIcGpFFRUbqfLYZKZ0pSCQTmI8RzJsrO-uy8pwhxNzZFL1g2sQchPI5u-N5vf5xmcM8tVkOXvcfZZ3R4rdYleK7exVCcKUZdt0jzcxumrUChoBnSUvn1eII5TCiz1jjIRWRy3QKzCF_qrtjXxOzzcz_kQ6LI5RYCmGXfFvYQDemb6kA8zVbji8aS2oVN46IsctSP6nokRUCKOBFVBmdfthCFEWrWODl3XdhFPwfSWBAjS_uAOUg6LWlVNJGey2VSofO2IHLnCjMIVnqJzcF2gPF-b8Gk9LanJuglO5LnzSRgnbwwa2c5MdwgA"
+FORCESUB = "sedotkuy"
+AUTH = 1939021250
 
 bot = TelegramClient('bot', API_ID, API_HASH).start(bot_token=BOT_TOKEN) 
 
